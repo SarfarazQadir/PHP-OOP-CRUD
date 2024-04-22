@@ -11,6 +11,7 @@ require_once ('Config/config.php');  // Include config file
 <title></title>
 </head>
 <body>
+    <!-- For Heading -->
 <h1>PHP OOP CRUD</h1>
     <fieldset>
         <legend>OOP CRUD</legend>
