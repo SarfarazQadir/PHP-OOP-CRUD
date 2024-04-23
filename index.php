@@ -22,6 +22,7 @@ require_once ('Config/config.php');  // Include config file
         <input type="submit" value="Done" name="btnproduct"><br><br>
     </form>
     </fieldset>
+    <!-- Sweet Alert Link -->
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <?php
 if(isset($_POST['btnproduct'])){
