@@ -16,7 +16,7 @@ $row = mysqli_fetch_assoc($res);
 <title></title>
 </head>
 <body>
-    Update Form
+    <!-- Update Form -->
 <h1>EDIT OOP CRUD</h1>
     <fieldset>
         <legend>EDIT OOP CRUD</legend>
