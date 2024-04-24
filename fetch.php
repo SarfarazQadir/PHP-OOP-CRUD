@@ -9,6 +9,7 @@ require_once ('Config/config.php');  // Include config file
     <title>Document</title>
 </head>
 <body>
+    <!-- Making Table -->
     <table border="2">
         <thead>
             <tr>
