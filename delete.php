@@ -1,6 +1,8 @@
 <?php
 include("Config/config.php");  
 
+// Delete File 
+
 $id = $_GET['ID'];
 $res = $database->delete($id);
 if($res){
